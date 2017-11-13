@@ -1,0 +1,30 @@
+{
+  "name": "emg-py--fcc-RequestHeaderParser",
+  "version": "1.0.0",
+  "description": "un exercice du programme freeCodeCamp.org",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emg-py/emg-py--fcc-RequestHeaderParser.git"
+  },
+  "keywords": [
+    "freecodecamp",
+    "Request Header Parser"
+  ],
+  "author": "py",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emg-py/fcc-RequestHeaderParser/issues"
+  },
+  "homepage": "https://github.com/emg-py/fcc-RequestHeaderParser#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "http": "0.0.0"
+  }
+}
